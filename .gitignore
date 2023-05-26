@@ -1,0 +1,48 @@
+# Gradle files
+.gradle/
+/build/
+/captures/
+/local.properties
+
+# Android Studio files
+.idea/
+*.iml
+.gradle
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Generated files
+/app/build/
+
+# Crashlytics generated file
+fabric.properties
+
+# Signing files
+/keystore.properties
+
+# Ignore generated APKs
+*.apk
+*.ap_
+
+# Ignore generated AAR files
+/libs/*.aar
+
+# Ignore lint results
+/lint-results.xml
+
+# Ignore ProGuard files
+/proguard/
+/proguard-*.*
+
+# Ignore Android Studio patch files
+*.orig
+
+# Ignore Log Files
+*.log
+
+# Ignore Hprof Files
+*.hprof
